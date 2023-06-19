@@ -1,0 +1,13 @@
+{
+  "configurations": [
+    {
+      "name": "viking",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/examples/player_detection.py",
+      "python": "${workspaceFolder}/.venv/bin/python",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+  ]
+}
